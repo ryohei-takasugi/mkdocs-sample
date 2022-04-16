@@ -1,19 +1,7 @@
 # 表
 
-| Method      | Description                          |
-| ----------- | ------------------------------------ |
-| `GET`       | :material-check:     Fetch resource  |
-| `PUT`       | :material-check-all: Update resource |
-| `DELETE`    | :material-close:     Delete resource |
-
-
-カードグリッド
-
-<div class="grid cards" markdown>
-
-- :fontawesome-brands-html5: __HTML__ for content and structure
-- :fontawesome-brands-js: __JavaScript__ for interactivity
-- :fontawesome-brands-css3: __CSS__ for text running out of boxes
-- :fontawesome-brands-internet-explorer: __Internet Explorer__ ... huh?
-
-</div>
+| 区分       | 料理  | メモ |
+| :-- | -- | --: |
+| 朝ごはん  | パンと卵 | すぐ作れる | 
+| 昼ごはん  | 焼きそば定食 | 食べすぎ | 
+| 夜ごはん  | 牛丼 | 帰り道に |

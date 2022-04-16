@@ -1,23 +1,25 @@
 # 提案された変更を含むテキスト
 
-Text can be {--deleted--} and replacement text {++added++}. This can also be
-combined into {~~one~>a single~~} operation. {==Highlighting==} is also
-possible {>>and comments can be added inline<<}.
+テキストは{--削除--}および置換テキスト{++追加++}にすることができます。 これも可能です
+{~~削除~>追加~~}操作に結合されます。 {==ハイライト==}も
+可能な{>>そしてコメントはインラインで追加することができます<<}。
 
 {==
 
-Formatting can also be applied to blocks by putting the opening and closing
-tags on separate lines and adding new lines between the tags and the content.
+開閉を入れることでブロックにもフォーマットを適用できます
+別々の行にタグを付け、タグとコンテンツの間に新しい行を追加します。
 
 ==}
 
 
 
+
+
 # 強調表示されたテキスト
 
-- ==This was marked==
-- ^^This was inserted^^
-- ~~This was deleted~~
+- ==この文章は強調されます==
+- ^^この文章は挿入されました^^
+- ~~この文章は削除されました~~
 
 
 
