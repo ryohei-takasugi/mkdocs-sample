@@ -1,0 +1,28 @@
+version: "3"
+
+services:
+  app:
+    container_name: mkdocs
+    build:
+      context: .
+      dockerfile: Dockerfile
+    tty: true
+    stdin_open: true
+    depends_on:
+      - plantuml
+    volumes:
+      - type: bind
+        source: "./"
+        target: "/root/projects"
+    networks:
+      - docnet
+  plantuml:
+    container_name: plantuml-server
+    image: plantuml/plantuml-server:jetty
+    restart: always
+    ports:
+      - "19000:8080"
+    networks:
+      - docnet
+networks:
+  docnet:

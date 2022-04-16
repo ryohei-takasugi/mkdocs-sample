@@ -1,0 +1,55 @@
+# 用語定義
+単語に一致する項目にカーソルを合わせると説明文が表示される。
+
+HTML 仕様は W3C によって維持されています。
+
+--8<-- "includes/abbreviations.md"
+
+
+# 注釈
+
+## 下段に注釈参照のあるテキスト
+
+吾輩は猫である[^1]をおすすめされた。しかし、私は 坊つちやん[^2]の方が好きである。
+
+[^1]: 夏目漱石の長編小説であり、1905年1月、『ホトトギス』にて発表された。
+
+[^2]:
+    夏目漱石による日本の中編小説である。1906年4月、『ホトトギス』にて発表された。
+    作品の中では、わんぱく坊主のいたずらあり、悪口雑言あり、暴力沙汰あり、痴情のもつれあり、義理人情ありと、他の漱石作品と比べて大衆的であり、漱石の小説の中で最も多くの人に愛読されている作品である。
+
+
+ 
+## ポップアップの注釈付きのテキスト
+
+Lorem ipsum dolor sit amet, (1) consectetur adipiscing elit.
+{ .annotate }
+
+1.  :man_raising_hand: I'm an annotation! I can contain `code`, __formatted
+    text__, images, ... basically anything that can be expressed in Markdown.
+
+
+### ネストされた注釈付きのテキスト
+
+Lorem ipsum dolor sit amet, (1) consectetur adipiscing elit.
+
+1.  I'm an annotation! (1)
+
+    1.  I'm an annotation as well!
+
+
+### 注釈付きのコンテンツタブ
+
+=== "Tab 1"
+
+    Lorem ipsum dolor sit amet, (1) consectetur adipiscing elit.
+    { .annotate }
+
+    1.  :man_raising_hand: I'm an annotation!
+
+=== "Tab 2"
+
+    Phasellus posuere in sem ut cursus (1)
+    { .annotate }
+
+    1.  :woman_raising_hand: I'm an annotation as well!
