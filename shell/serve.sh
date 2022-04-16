@@ -1,0 +1,1 @@
+docker exec -i mkdocs /bin/ash -c "cd /root/projects/mkdocs && /usr/bin/mkdocs serve"
