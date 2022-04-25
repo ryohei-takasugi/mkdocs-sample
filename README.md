@@ -2,14 +2,14 @@
 
 次の手順でビルドを行い、HTMLファイルを生成してください。
 
-ご自身のホストディレクトリの`mkdocs-sample/mkdocs/site/index.html`を開いてください。
+ご自身のホストディレクトリの`mkdocs-sample/docs/site/index.html`を開いてください。
 
 ```
 ~ % git clone https://github.com/ryohei-takasugi/mkdocs-sample.git
 ~ % cd mkdocs-sample
 mkdocs-sample % docker-compose up -d
 mkdocs-sample % sh shell/build.sh
-mkdocs-sample % open mkdocs/site/index.html
+mkdocs-sample % open docs/site/index.html
 ```
 
 ## 新しくドキュメントを作成する
@@ -19,9 +19,9 @@ mkdocs-sample % open mkdocs/site/index.html
 新しくご自身で利用するときは、次の操作を行います。
 
 ```
-mkdocs-sample % rm -rf mkdocs/docs/* 
-mkdocs-sample % rm -rf mkdocs/includes/* 
-mkdocs-sample % rm -rf mkdocs/site
+mkdocs-sample % rm -rf docs/docs/* 
+mkdocs-sample % rm -rf docs/includes/* 
+mkdocs-sample % rm -rf docs/site
 mkdocs-sample % sh shell/new.sh
 ```
 
@@ -31,7 +31,7 @@ mkdocs-sample % sh shell/new.sh
 shell/build.sh
 shell/new.sh
 shell/serve.sh
-mkdocs/mkdocs.yml
+docs/mkdocs.yml
 docker-compose.yml
 Dockerfile
 ```
