@@ -8,21 +8,15 @@ services:
       dockerfile: Dockerfile
     tty: true
     stdin_open: true
+    ports:
+      - "127.0.0.1:18000:18000"
     depends_on:
       - plantuml
     volumes:
       - type: bind
         source: "./"
         target: "/root/projects"
-    networks:
-      - docnet
   plantuml:
     container_name: plantuml-server
     image: plantuml/plantuml-server:jetty
     restart: always
-    ports:
-      - "19000:8080"
-    networks:
-      - docnet
-networks:
-  docnet:
