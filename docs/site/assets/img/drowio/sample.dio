@@ -1,0 +1,222 @@
+<mxfile host="65bd71144e">
+    <diagram id="rMw7kq1i95Z-f9p9aJGj" name="ページ1">
+        <mxGraphModel dx="1117" dy="556" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="33" value="" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.containers.marginRect2;rectMarginTop=32;strokeColor=#666666;gradientColor=none;" vertex="1" parent="1">
+                    <mxGeometry x="230" y="120" width="470" height="294" as="geometry"/>
+                </mxCell>
+                <mxCell id="23" value="Window Title" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.containers.window;align=left;verticalAlign=top;spacingLeft=8;strokeColor2=#008cff;strokeColor3=#c4c4c4;fontColor=#666666;mainText=;fontSize=17;labelBackgroundColor=none;" vertex="1" parent="33">
+                    <mxGeometry x="-80" y="-86" width="550" height="380" as="geometry"/>
+                </mxCell>
+                <mxCell id="43" value="" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.rrect;rSize=0;strokeColor=#999999;" vertex="1" parent="33">
+                    <mxGeometry x="-80" y="-56" width="550" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="44" value="File" style="strokeColor=inherit;fillColor=inherit;gradientColor=inherit;strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.rrect;rSize=0;fontSize=17;fontColor=#666666;" vertex="1" parent="43">
+                    <mxGeometry width="91.66666666666666" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="45" value="Edit" style="strokeColor=inherit;fillColor=inherit;gradientColor=inherit;strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.rrect;rSize=0;fontSize=17;fontColor=#666666;" vertex="1" parent="43">
+                    <mxGeometry x="91.66666666666666" width="91.66666666666666" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="46" value="Options" style="strokeColor=inherit;fillColor=inherit;gradientColor=inherit;strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.rrect;rSize=0;fontSize=17;fontColor=#666666;" vertex="1" parent="43">
+                    <mxGeometry x="183.33333333333331" width="91.66666666666666" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="47" value="Tools" style="strokeColor=inherit;fillColor=inherit;gradientColor=inherit;strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.rrect;rSize=0;fontSize=17;fontColor=#666666;" vertex="1" parent="43">
+                    <mxGeometry x="275" width="91.66666666666666" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="48" value="Window" style="strokeColor=inherit;fillColor=inherit;gradientColor=inherit;strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.rrect;rSize=0;fontSize=17;fontColor=#666666;" vertex="1" parent="43">
+                    <mxGeometry x="366.66666666666663" width="91.66666666666666" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="49" value="Help" style="strokeColor=inherit;fillColor=inherit;gradientColor=inherit;strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.rrect;rSize=0;fontSize=17;fontColor=#666666;" vertex="1" parent="43">
+                    <mxGeometry x="458.3333333333333" width="91.66666666666666" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="38" value="" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.containers.marginRect2;rectMarginTop=32;strokeColor=#666666;gradientColor=none;" vertex="1" parent="1">
+                    <mxGeometry x="230" y="140" width="400" height="215" as="geometry"/>
+                </mxCell>
+                <mxCell id="39" value="Tab 1" style="strokeColor=inherit;fillColor=inherit;gradientColor=inherit;strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.containers.rrect;rSize=0;fontSize=17;fontColor=#666666;gradientColor=none;" vertex="1" parent="38">
+                    <mxGeometry width="60" height="25" relative="1" as="geometry">
+                        <mxPoint x="10" as="offset"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="40" value="Tab 2" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.containers.rrect;rSize=0;fontSize=17;fontColor=#ffffff;strokeColor=#008cff;fillColor=#008cff;" vertex="1" parent="38">
+                    <mxGeometry width="60" height="25" relative="1" as="geometry">
+                        <mxPoint x="75" as="offset"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="41" value="Tab 3" style="strokeColor=inherit;fillColor=inherit;gradientColor=inherit;strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.containers.rrect;rSize=0;fontSize=17;fontColor=#666666;gradientColor=none;" vertex="1" parent="38">
+                    <mxGeometry width="60" height="25" relative="1" as="geometry">
+                        <mxPoint x="140" as="offset"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="42" value="" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.containers.topButton;rSize=5;strokeColor=#008cff;fillColor=#008cff;gradientColor=none;resizeWidth=1;movable=0;deletable=1;" vertex="1" parent="38">
+                    <mxGeometry width="400" height="7" relative="1" as="geometry">
+                        <mxPoint y="25" as="offset"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="50" value="" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.rrect;rSize=5;strokeColor=#999999;fillColor=#ffffff;" vertex="1" parent="38">
+                    <mxGeometry x="230" y="40" width="160" height="175" as="geometry"/>
+                </mxCell>
+                <mxCell id="51" value="October 2014" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.anchor;fontColor=#999999;" vertex="1" parent="50">
+                    <mxGeometry x="30" y="8" width="100" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="52" value="&lt;" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.rrect;rSize=4;strokeColor=#999999;fontColor=#008cff;fontSize=19;fontStyle=1;" vertex="1" parent="50">
+                    <mxGeometry x="8" y="8" width="25" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="53" value="&gt;" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.rrect;rSize=4;strokeColor=#999999;fontColor=#008cff;fontSize=19;fontStyle=1;" vertex="1" parent="50">
+                    <mxGeometry x="127" y="8" width="25" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="54" value="Mo" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.anchor;fontColor=#999999;" vertex="1" parent="50">
+                    <mxGeometry x="10" y="28" width="20" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="55" value="Tu" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.anchor;fontColor=#999999;" vertex="1" parent="50">
+                    <mxGeometry x="30" y="28" width="20" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="56" value="We" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.anchor;fontColor=#999999;" vertex="1" parent="50">
+                    <mxGeometry x="50" y="28" width="20" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="57" value="Th" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.anchor;fontColor=#999999;" vertex="1" parent="50">
+                    <mxGeometry x="70" y="28" width="20" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="58" value="Fr" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.anchor;fontColor=#999999;" vertex="1" parent="50">
+                    <mxGeometry x="90" y="28" width="20" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="59" value="Sa" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.anchor;fontColor=#999999;" vertex="1" parent="50">
+                    <mxGeometry x="110" y="28" width="20" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="60" value="Su" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.anchor;fontColor=#999999;" vertex="1" parent="50">
+                    <mxGeometry x="130" y="28" width="20" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="61" value="1" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.rrect;rSize=0;strokeColor=#999999;fontColor=#999999;" vertex="1" parent="50">
+                    <mxGeometry x="10" y="48" width="20" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="62" value="2" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.rrect;rSize=0;strokeColor=#999999;fontColor=#999999;" vertex="1" parent="50">
+                    <mxGeometry x="30" y="48" width="20" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="63" value="3" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.rrect;rSize=0;strokeColor=#999999;fontColor=#999999;" vertex="1" parent="50">
+                    <mxGeometry x="50" y="48" width="20" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="64" value="4" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.rrect;rSize=0;strokeColor=#999999;fontColor=#999999;" vertex="1" parent="50">
+                    <mxGeometry x="70" y="48" width="20" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="65" value="5" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.rrect;rSize=0;strokeColor=#999999;fontColor=#999999;" vertex="1" parent="50">
+                    <mxGeometry x="90" y="48" width="20" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="66" value="6" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.rrect;rSize=0;strokeColor=#999999;fontColor=#999999;" vertex="1" parent="50">
+                    <mxGeometry x="110" y="48" width="20" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="67" value="7" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.rrect;rSize=0;strokeColor=#999999;fontColor=#999999;" vertex="1" parent="50">
+                    <mxGeometry x="130" y="48" width="20" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="68" value="8" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.rrect;rSize=0;strokeColor=#999999;fontColor=#999999;" vertex="1" parent="50">
+                    <mxGeometry x="10" y="68" width="20" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="69" value="9" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.rrect;rSize=0;strokeColor=#999999;fontColor=#999999;" vertex="1" parent="50">
+                    <mxGeometry x="30" y="68" width="20" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="70" value="10" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.rrect;rSize=0;strokeColor=#999999;fontColor=#999999;" vertex="1" parent="50">
+                    <mxGeometry x="50" y="68" width="20" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="71" value="11" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.rrect;rSize=0;strokeColor=#999999;fontColor=#999999;" vertex="1" parent="50">
+                    <mxGeometry x="70" y="68" width="20" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="72" value="12" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.rrect;rSize=0;strokeColor=#999999;fontColor=#999999;" vertex="1" parent="50">
+                    <mxGeometry x="90" y="68" width="20" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="73" value="13" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.rrect;rSize=0;strokeColor=#999999;fontColor=#999999;" vertex="1" parent="50">
+                    <mxGeometry x="110" y="68" width="20" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="74" value="14" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.rrect;rSize=0;strokeColor=#999999;fontColor=#999999;" vertex="1" parent="50">
+                    <mxGeometry x="130" y="68" width="20" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="75" value="15" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.rrect;rSize=0;strokeColor=#999999;fontColor=#999999;" vertex="1" parent="50">
+                    <mxGeometry x="10" y="88" width="20" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="76" value="16" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.rrect;rSize=0;strokeColor=#999999;fontColor=#999999;" vertex="1" parent="50">
+                    <mxGeometry x="30" y="88" width="20" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="77" value="17" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.rrect;rSize=0;strokeColor=#999999;fontColor=#999999;" vertex="1" parent="50">
+                    <mxGeometry x="50" y="88" width="20" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="78" value="18" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.rrect;rSize=0;strokeColor=#999999;fontColor=#999999;" vertex="1" parent="50">
+                    <mxGeometry x="70" y="88" width="20" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="79" value="19" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.rrect;rSize=0;strokeColor=#999999;fontColor=#999999;" vertex="1" parent="50">
+                    <mxGeometry x="90" y="88" width="20" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="80" value="20" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.rrect;rSize=0;strokeColor=#999999;fontColor=#999999;" vertex="1" parent="50">
+                    <mxGeometry x="110" y="88" width="20" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="81" value="21" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.rrect;rSize=0;strokeColor=#999999;fontColor=#999999;" vertex="1" parent="50">
+                    <mxGeometry x="130" y="88" width="20" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="82" value="22" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.rrect;rSize=0;strokeColor=#999999;fontColor=#999999;" vertex="1" parent="50">
+                    <mxGeometry x="10" y="108" width="20" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="83" value="23" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.rrect;rSize=0;strokeColor=#999999;fontColor=#999999;" vertex="1" parent="50">
+                    <mxGeometry x="30" y="108" width="20" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="84" value="25" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.rrect;rSize=0;strokeColor=#999999;fontColor=#999999;" vertex="1" parent="50">
+                    <mxGeometry x="70" y="108" width="20" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="85" value="26" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.rrect;rSize=0;strokeColor=#999999;fontColor=#999999;" vertex="1" parent="50">
+                    <mxGeometry x="90" y="108" width="20" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="86" value="27" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.rrect;rSize=0;strokeColor=#999999;fontColor=#999999;" vertex="1" parent="50">
+                    <mxGeometry x="110" y="108" width="20" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="87" value="28" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.rrect;rSize=0;strokeColor=#999999;fontColor=#999999;" vertex="1" parent="50">
+                    <mxGeometry x="130" y="108" width="20" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="88" value="29" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.rrect;rSize=0;strokeColor=#999999;fontColor=#999999;" vertex="1" parent="50">
+                    <mxGeometry x="10" y="128" width="20" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="89" value="30" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.rrect;rSize=0;strokeColor=#999999;fontColor=#999999;" vertex="1" parent="50">
+                    <mxGeometry x="30" y="128" width="20" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="90" value="31" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.rrect;rSize=0;strokeColor=#999999;fontColor=#999999;" vertex="1" parent="50">
+                    <mxGeometry x="50" y="128" width="20" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="91" value="1" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.rrect;rSize=0;strokeColor=#999999;fontColor=#999999;fillColor=#ddeeff;" vertex="1" parent="50">
+                    <mxGeometry x="70" y="128" width="20" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="92" value="2" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.rrect;rSize=0;strokeColor=#999999;fontColor=#999999;fillColor=#ddeeff;" vertex="1" parent="50">
+                    <mxGeometry x="90" y="128" width="20" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="93" value="3" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.rrect;rSize=0;strokeColor=#999999;fontColor=#999999;fillColor=#ddeeff;" vertex="1" parent="50">
+                    <mxGeometry x="110" y="128" width="20" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="94" value="4" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.rrect;rSize=0;strokeColor=#999999;fontColor=#999999;fillColor=#ddeeff;" vertex="1" parent="50">
+                    <mxGeometry x="130" y="128" width="20" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="95" value="5" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.rrect;rSize=0;strokeColor=#999999;fontColor=#999999;fillColor=#ddeeff;" vertex="1" parent="50">
+                    <mxGeometry x="10" y="148" width="20" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="96" value="6" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.rrect;rSize=0;strokeColor=#999999;fontColor=#999999;fillColor=#ddeeff;" vertex="1" parent="50">
+                    <mxGeometry x="30" y="148" width="20" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="97" value="7" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.rrect;rSize=0;strokeColor=#999999;fontColor=#999999;fillColor=#ddeeff;" vertex="1" parent="50">
+                    <mxGeometry x="50" y="148" width="20" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="98" value="8" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.rrect;rSize=0;strokeColor=#999999;fontColor=#999999;fillColor=#ddeeff;" vertex="1" parent="50">
+                    <mxGeometry x="70" y="148" width="20" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="99" value="9" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.rrect;rSize=0;strokeColor=#999999;fontColor=#999999;fillColor=#ddeeff;" vertex="1" parent="50">
+                    <mxGeometry x="90" y="148" width="20" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="100" value="10" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.rrect;rSize=0;strokeColor=#999999;fontColor=#999999;fillColor=#ddeeff;" vertex="1" parent="50">
+                    <mxGeometry x="110" y="148" width="20" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="101" value="11" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.rrect;rSize=0;strokeColor=#999999;fontColor=#999999;fillColor=#ddeeff;" vertex="1" parent="50">
+                    <mxGeometry x="130" y="148" width="20" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="102" value="24" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.rrect;rSize=0;strokeColor=#ff0000;fontColor=#ffffff;strokeWidth=2;fillColor=#008cff;" vertex="1" parent="50">
+                    <mxGeometry x="50" y="108" width="20" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="103" value="" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;strokeWidth=1;shape=mxgraph.mockup.graphics.columnChart;strokeColor=none;strokeColor2=none;strokeColor3=#666666;fillColor2=#008cff;fillColor3=#dddddd;" vertex="1" parent="38">
+                    <mxGeometry y="70" width="220" height="130" as="geometry"/>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>
