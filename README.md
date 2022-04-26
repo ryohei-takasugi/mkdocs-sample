@@ -1,4 +1,4 @@
-## 利用の仕方
+## 利用の仕方(build)
 
 次の手順でビルドを行い、HTMLファイルを生成してください。
 
@@ -10,6 +10,18 @@
 mkdocs-sample % docker-compose up -d
 mkdocs-sample % sh shell/build.sh
 mkdocs-sample % open docs/site/index.html
+```
+
+## 利用の仕方(serve)
+
+次の手順でserverを起動してください。
+
+```
+~ % git clone https://github.com/ryohei-takasugi/mkdocs-sample.git
+~ % cd mkdocs-sample
+mkdocs-sample % docker-compose up -d
+mkdocs-sample % sh shell/serve.sh
+mkdocs-sample % open http://localhost:18000 
 ```
 
 ## 新しくドキュメントを作成する
