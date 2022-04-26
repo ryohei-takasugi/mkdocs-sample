@@ -152,4 +152,4 @@ nav:
 # ローカル環境で表示する場合はfalse、Webサーバー経由ならTrue
 use_directory_urls: false
 # 公開するページのPort番号を指定
-dev_addr: '127.0.0.1:18000'
+dev_addr: '0.0.0.0:18000'
