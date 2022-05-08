@@ -1,6 +1,11 @@
+## はじめに
+
+このリポジトリは、mkdocsを用いてソフトウェアドキュメント製作に適している環境の構築を目指したものです。
+mkdocsにはplantumlやmermaidを入れたり、用語定義やタブなど多くの鮮やかな表示機能を有効にしています。
+
 ## 利用の仕方(build)
 
-次の手順でビルドを行い、HTMLファイルを生成してください。
+次の手順でHTMLファイルを生成します。
 
 ご自身のホストディレクトリの`mkdocs-sample/docs/site/index.html`を開いてください。
 
@@ -14,7 +19,7 @@ mkdocs-sample % open docs/site/index.html
 
 ## 利用の仕方(serve)
 
-次の手順でserverを起動してください。
+次の手順でserverを起動します。
 
 ```
 ~ % git clone https://github.com/ryohei-takasugi/mkdocs-sample.git
