@@ -14,8 +14,6 @@ RUN apk update \
   # Math plugin https://github.com/mitya57/python-markdown-math
   && pip3 install python-markdown-math \
   # Auto create navigation https://github.com/oprypin/mkdocs-literate-nav
-  && pip3 install mkdocs-literate-nav \
-  # Rename navigation plugin https://github.com/lukasgeiter/mkdocs-awesome-pages-plugin
-  && pip3 install mkdocs-awesome-pages-plugin
+  && pip3 install mkdocs-literate-nav
 
 RUN mkdir -p /root/projects

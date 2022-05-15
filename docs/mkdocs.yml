@@ -45,14 +45,6 @@ plugins:
       separator: '[\s\-\.]'
       # 各ページのタイトル、セクション見出し、および全文にインデックスを付けます。
       indexing: 'full'
-  # 名称の変更機能
-  - awesome-pages:
-      # ディレクトリのページを構成するために使用されるファイルの名前。デフォルトは.pages
-      filename: .pages
-      # 単一のネストされたページの折りたたみを有効にします。デフォルトはfalse
-      collapse_single_pages: true
-      # 次の場合、警告ではなくエラーを発生させます。arrangeエントリが見つかりません。navエントリが見つかりません。デフォルトはtrue
-      strict: true
   # 自動目次生成機能
   - literate-nav:
       nav_file: SUMMARY.md
