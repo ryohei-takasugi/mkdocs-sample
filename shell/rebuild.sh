@@ -1,4 +1,4 @@
 docker-compose down
-docker-compose rm -svf app
+docker rmi mkdocs-sample_app
 docker-compose build app
 docker-compose up -d
