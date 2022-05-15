@@ -9,18 +9,13 @@ RUN apk update \
   && pip3 install pymdown-extensions \
   # Highlights plugin https://pygments.org/
   && pip3 install pygments \
-  # Drow plugin
-  && pip3 install plantuml-markdown markdown-inline-graphviz \
+  # Uml plugin
+  && pip3 install plantuml-markdown \
   # Math plugin https://github.com/mitya57/python-markdown-math
   && pip3 install python-markdown-math \
   # Auto create navigation https://github.com/oprypin/mkdocs-literate-nav
   && pip3 install mkdocs-literate-nav \
   # Rename navigation plugin https://github.com/lukasgeiter/mkdocs-awesome-pages-plugin
-  && pip3 install mkdocs-awesome-pages-plugin 
-
-# install markdown-dot https://github.com/jawher/markdown-dot
-RUN mkdir -p /root/.markdown-dot
-RUN git clone https://github.com/jawher/markdown-dot.git /root/.markdown-dot
-RUN cd /root/.markdown-dot && pip install .
+  && pip3 install mkdocs-awesome-pages-plugin
 
 RUN mkdir -p /root/projects
