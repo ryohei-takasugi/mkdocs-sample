@@ -45,7 +45,7 @@ plugins:
       separator: '[\s\-\.]'
       # 各ページのタイトル、セクション見出し、および全文にインデックスを付けます。
       indexing: 'full'
-  # 自動目次生成機能
+  # 名称の変更機能
   - awesome-pages:
       # ディレクトリのページを構成するために使用されるファイルの名前。デフォルトは.pages
       filename: .pages
@@ -53,6 +53,9 @@ plugins:
       collapse_single_pages: true
       # 次の場合、警告ではなくエラーを発生させます。arrangeエントリが見つかりません。navエントリが見つかりません。デフォルトはtrue
       strict: true
+  # 自動目次生成機能
+  - literate-nav:
+      nav_file: SUMMARY.md
 # [拡張機能]
 markdown_extensions:
     # 目次の自動生成する
@@ -145,20 +148,6 @@ extra:
       name: ryohei_takasugi on Github
 # [フッター] 著作権表示
 copyright: Copyright &copy; 2020 - 2022 takana tarou
-# [ページナビゲーション]
-nav:
-  - 区切り１:
-    - はじめに: index.md
-    - Note記法: section/page-1.md
-    - UML: section/uml.md
-    - コード: section/code.md
-    - リスト: section/list.md
-    - 注釈: section/footnotes.md
-    - 取り消し線など: section/formatting.md
-    - 表: section/grid.md
-  - 区切り２:
-    - section_page2.md
-    - 画像サンプル: section/section2-1.md
 # ローカル環境で表示する場合はfalse、Webサーバー経由ならTrue
 use_directory_urls: false
 # 公開するページのPort番号を指定
