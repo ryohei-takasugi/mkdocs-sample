@@ -23,3 +23,12 @@ sequenceDiagram
   Bob-->>John: Jolly good!
 @enduml
 ```
+
+{% assets/img attack_plan.svg
+    digraph G {
+        rankdir=LR
+        Earth [peripheries=2]
+        Mars
+        Earth -> Mars
+    }
+%}
